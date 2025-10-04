@@ -11,4 +11,4 @@ compound_interest = principal * (1 + rate/100) ** time - principal
 
 # Output
 print("Simple Interest is:", simple_interest)
-print("Compound Interest is:", compound_interest)
+print("Compound interest is:", compound_interest)
